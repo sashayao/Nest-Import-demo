@@ -1187,13 +1187,13 @@
         "affectsGlobalScope": false
       },
       "../src/export.module.ts": {
-        "version": "7a1998f384759f9512f8773b3fc266faf64ebfd074eb3433b3bba2d4671b0578",
+        "version": "7a4a7f2ee3626fdaee1ae2235c7c3dfdd60f1538bb828a3505adb629f1a366c4",
         "signature": "539ca8eb26ee7514a013b1a5e907a2b28d2dd745b484d0bec0f6a01d7d40a600",
         "affectsGlobalScope": false
       },
       "../src/index.ts": {
-        "version": "12bd9d81844865de298045c105b6c0335cb223bcd77916c751e70c666df46ed0",
-        "signature": "cfd9c2dae1f019614a5fae94eaed9470e04c19d4f4f3b0374640841961d55bf8",
+        "version": "7dee6a36ab194a082e91b1d9d00fde001d3ae32123a7a839cec6e91110933175",
+        "signature": "2a7d1f2b08df956343929c3198f2747ffe12ebf64f0f6b8affcc1e738d1b9aa7",
         "affectsGlobalScope": false
       },
       "../index.ts": {
@@ -2946,7 +2946,8 @@
       ],
       "../src/index.ts": [
         "../src/export.module.ts",
-        "../src/greet.service.ts"
+        "../src/greet.service.ts",
+        "../src/message.service.ts"
       ],
       "../src/message.service.ts": [
         "../node_modules/@nestjs/common/index.d.ts"
@@ -4131,7 +4132,8 @@
       ],
       "../src/index.ts": [
         "../src/export.module.ts",
-        "../src/greet.service.ts"
+        "../src/greet.service.ts",
+        "../src/message.service.ts"
       ]
     },
     "semanticDiagnosticsPerFile": []

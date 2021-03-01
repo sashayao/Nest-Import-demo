@@ -8,14 +8,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ExportModule = void 0;
 const common_1 = require("@nestjs/common");
-const message_service_1 = require("./message.service");
-const greet_service_1 = require("./greet.service");
 let ExportModule = class ExportModule {
 };
 ExportModule = __decorate([
-    common_1.Module({
-        providers: [message_service_1.MessageService, greet_service_1.GreetService],
-    })
+    common_1.Module({})
 ], ExportModule);
 exports.ExportModule = ExportModule;
 //# sourceMappingURL=export.module.js.map
