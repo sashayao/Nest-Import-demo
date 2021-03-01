@@ -1,7 +1,7 @@
 
 ## Information
 This is a demo/starter repository for a project exporting functionalities using NestJS modules and services.
-This project corresponds with a demo NestJs import project: 
+This project corresponds with a demo NestJs import project: [https://github.com/sashayao/nestjs-import-demo]
   
 
 ## Description
