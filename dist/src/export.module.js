@@ -15,7 +15,6 @@ let ExportModule = class ExportModule {
 ExportModule = __decorate([
     common_1.Module({
         providers: [message_service_1.MessageService, greet_service_1.GreetService],
-        exports: [greet_service_1.GreetService]
     })
 ], ExportModule);
 exports.ExportModule = ExportModule;

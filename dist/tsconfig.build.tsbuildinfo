@@ -1187,7 +1187,7 @@
         "affectsGlobalScope": false
       },
       "../src/export.module.ts": {
-        "version": "6e666cd9b355ed701d097da40bccb85ce674cb2d1f9a73fdcc4127b9ae642d79",
+        "version": "7a1998f384759f9512f8773b3fc266faf64ebfd074eb3433b3bba2d4671b0578",
         "signature": "539ca8eb26ee7514a013b1a5e907a2b28d2dd745b484d0bec0f6a01d7d40a600",
         "affectsGlobalScope": false
       },
