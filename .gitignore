@@ -34,13 +34,13 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 
-# everything else in folder
-/src
-/test
-/index.ts 
-/package-lock.json 
-/tsconfig.build.json
-/tsconfig.json
-/nest-cli.json
-.eslintrc.js 
-.prettierrc
+# can optionally remove these files from your publish repository
+# /src
+# /test
+# /index.ts 
+# /package-lock.json 
+# /tsconfig.build.json
+# /tsconfig.json
+# /nest-cli.json
+# .eslintrc.js 
+# .prettierrc
